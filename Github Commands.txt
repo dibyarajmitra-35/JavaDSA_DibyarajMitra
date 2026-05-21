@@ -1,0 +1,14 @@
+Now Learn the MOST IMPORTANT Daily Workflow
+
+From now on whenever you change code:
+
+Step 1 — Check Changes
+git status
+Step 2 — Add Files
+git add .
+Step 3 — Save Snapshot
+git commit -m "Added array problems"
+Step 4 — Upload to GitHub
+git push
+
+That’s the real workflow developers use daily.
